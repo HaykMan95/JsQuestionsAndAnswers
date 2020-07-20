@@ -11,7 +11,7 @@ skzbum mi qani harc
 
 ev patasxan
 
-`da miapatok, none-blocking (aranc xochndotneri), ansinxron, zugaher lezu em`
+`da miapatok, none-blocking (aranc xochndotneri), sinxron, zugaher lezu e`
 
 `hmm...`
 
